@@ -1,3 +1,3 @@
-require "json"
+require './my_app'
 
-# your code
+my_app
